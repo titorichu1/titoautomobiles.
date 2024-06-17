@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\tito docs\\titoautomo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F92E197-946A-40D3-B6FD-295D5B4BB103}|titoautomo\\titoautomo.csproj|e:\\tito docs\\titoautomo\\titoautomo\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F92E197-946A-40D3-B6FD-295D5B4BB103}|titoautomo\\titoautomo.csproj|solutionrelative:titoautomo\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F92E197-946A-40D3-B6FD-295D5B4BB103}|titoautomo\\titoautomo.csproj|E:\\tito docs\\titoautomo\\titoautomo\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2F92E197-946A-40D3-B6FD-295D5B4BB103}|titoautomo\\titoautomo.csproj|solutionrelative:titoautomo\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "style.css",
+              "DocumentMoniker": "E:\\tito docs\\titoautomo\\titoautomo\\style.css",
+              "RelativeDocumentMoniker": "titoautomo\\style.css",
+              "ToolTip": "E:\\tito docs\\titoautomo\\titoautomo\\style.css",
+              "RelativeToolTip": "titoautomo\\style.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-15T05:35:08.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "E:\\tito docs\\titoautomo\\titoautomo\\index.html",
+              "RelativeDocumentMoniker": "titoautomo\\index.html",
+              "ToolTip": "E:\\tito docs\\titoautomo\\titoautomo\\index.html",
+              "RelativeToolTip": "titoautomo\\index.html",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAEMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-15T05:30:46.344Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
